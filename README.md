@@ -1,2 +1,2 @@
-# tumor
+# Brain Tumor
 brain tumor classification
